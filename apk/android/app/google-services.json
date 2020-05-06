@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "486336886651",
+    "firebase_url": "https://student-database-c8719.firebaseio.com",
+    "project_id": "student-database-c8719",
+    "storage_bucket": "student-database-c8719.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486336886651:android:73d28d954ce80ad217afde",
+        "android_client_info": {
+          "package_name": "com.peldev.commercialapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486336886651-7kiedfkp8tj62nrksuapcjod8f51a2qc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp_erHfW5Z3G1mnvBaU6F6JhwWrZYstYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "486336886651-7kiedfkp8tj62nrksuapcjod8f51a2qc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
